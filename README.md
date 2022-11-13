@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pawelsuchodolski
-- 👀 I’m interested in video games and music
+- 👀 I’m interested in video games, drawing and music
 - 🌱 I’m currently learning Python
 - 📫 How to reach me pawel.suchodolski@outlook.com
 
