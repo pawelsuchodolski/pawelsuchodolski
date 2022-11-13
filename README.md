@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @pawelsuchodolski
-- 👀 I’m interested in ...
+- 👀 I’m interested in video games and music
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me pawel.suchodolski@outlook.com
 
 <!---
 pawelsuchodolski/pawelsuchodolski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
